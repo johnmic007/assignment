@@ -1,10 +1,10 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 .bg{
   background-image: url("../../public/hero.jpg");
 }
 body{
-  /* color: white; */
+  color: white;
 }

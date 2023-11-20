@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import css from './Home.module.css';
-import logo from '../../../public/logo.png';
-import Footer from '../../../components/footer'
+import logo from '../..//../../public/logo.png';
+import Footer from '../../../../components/footer'
 import { MdOutlineVerified } from "react-icons/md";
 import { TiTick } from "react-icons/ti";
 
